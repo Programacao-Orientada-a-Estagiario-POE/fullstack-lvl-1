@@ -9,3 +9,11 @@
   ### Assuntos
    - Variáveis
    - Operadores
+
+<br />
+
+## [Aula 02](https://www.youtube.com/watch?v=xTOhVeY8qgc&list=PLPs4fyV6ifBbamdlKwLqYgGhJomJ0gwWU&index=2)
+  ### Assuntos
+   - Operadores
+   - Funções no JS
+   - Estruturas de repetição

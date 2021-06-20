@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* '*' seletor universal */
+
+  /* * {
+    font-size: 90%;
+  } */
+
+  /* tag selector */
+  h2 {
+    font-size: 2.5rem;
+  }
+
+  /* '#' id selector */
+  #title {
+    color: red;
+  }
+
+  /* '.' class selector */
+  .subtitle {
+    color: blue;
+  }
+
+  .box {
+    border-width: 8px;
+    border-style: solid;
+    border-color: rgba(255, 0, 255, 0.5); 
+
+    border-radius: 25px;
+
+    text-align: center;
+
+    /* margin-top: 15px;
+    margin-right: 25px;
+    margin-left: 35px;
+    margin-bottom: 20px; */
+    /* margin: 15px 25px 20px 35px; */
+    /* margin: 15px 20px 35px; */
+    /* margin: 15px 20px;
+    margin: 15px; */
+    margin: 16px;
+    font-family: cursive;
+    /* padding: 20px; */
+  }
+  /* 0 1 2 3 4 5 6 7 8 9 A B C D E F */
+  #my-box {
+    height: 10rem;
+    width: 10rem;
+
+    /* padding: 0 15px; */
+    /* padding: 0 15px 0 15px; */
+    padding-right: 15px;
+    padding-left: 15px;
+    
+    border: 1px solid deeppink;
+  }
+  #my-box p  {
+    font-size: 17px;
+    color: yellowgreen;
+  }
+
+  #my-box p  {
+    font-size: 17px;
+    color: rgb(144, 13, 177);
+  }
+  /*  Hierarquia / Peso
+    # id
+    . class
+    h1 tag
+    !important --> dê preferência a não utilizar
+  */
+
+  #my-box3 {
+    font-size: 12px;
+    /* font-family: 'Roboto', cursive; */
+    /* font-weight: normal; */
+    font: 12px 'Roboto', cursive ;
+  }
